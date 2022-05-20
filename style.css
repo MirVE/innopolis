@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(107, 143, 147);
+}
+
+@font-face {
+    font-family: 'IBM-Plex-Sans';
+    src: url(/fonts/IBM_Plex_Sans/IBMPlexSans-Thin.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'IBM-Plex-Sans';
+    src: url(/fonts/IBM_Plex_Sans/IBMPlexSans-Light.ttf);
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'IBM-Plex-Sans';
+    src: url(/fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'IBM-Plex-Sans';
+    src: url(/fonts/IBM_Plex_Sans/IBMPlexSans-Medium.ttf);
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'IBM-Plex-Sans';
+    src: url(/fonts/IBM_Plex_Sans/IBMPlexSans-SemiBold.ttf);
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'IBM-Plex-Sans';
+    src: url(/fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf);
+    font-style: normal;
+    font-weight: 700;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.one {
+    display: inline-block;
+}
+
+.two {
+    display: inline-block;
+}
+
+.q {
+    display: inline-block;
+}
+
+.w {
+    display: inline-block;
+}
+
+.e {
+    display: inline-block;
+}
+
+.r {
+    display: inline-block;
+}
+
+.t {
+    display: inline-block;
+}
+
+.y {
+    display: inline-block;
+}
+
+.u {
+    display: inline-block;
+}
